@@ -1,0 +1,3 @@
+
+* Design Intent
+- thickness is minimum recommended by prusa @ 0.5mm
